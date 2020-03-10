@@ -45,5 +45,6 @@ get_template_directory_uri() . '/assets/images/mylogo2.jpg' ?>
 
 
 	</div>
+	
 			</nav><!-- #site-navigation -->
 		</header><!-- #masthead -->

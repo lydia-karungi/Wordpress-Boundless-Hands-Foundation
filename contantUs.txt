@@ -1,8 +1,0 @@
-<!DOCTYPE html>
-<head>
-    <title>our information</title>
-</head>
-<body>
-
-</body>
-</html>
